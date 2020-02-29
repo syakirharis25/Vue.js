@@ -20,6 +20,9 @@ Vue.js lets you extend HTML with HTML attributes called directives. The directiv
 ## 2. Official references websites. 
 Vue.js official website : https://vuejs.org <br />
 
+**_Vue.js related technologies_**
+Nuxt.js : https://nuxtjs.org <br />
+
 **_Vue.js developers_** <br />
 Vue was created by Evan You : https://github.com/yyx990803, https://twitter.com/youyuxi <br />
  
