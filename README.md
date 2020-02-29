@@ -9,7 +9,7 @@ My works related to Vue.js framework.
 
 <a name="introduction"></a>
 ## 1. Introduction.
-<img src="ssh.webp" height="150"> 
+<img src="vue.png" height="150"> 
 Vue.js is an open-source Model–view–viewmodel JavaScript framework for building user interfaces and single-page applications. It was created by Evan You, and is maintained by him and the rest of the active core team members coming from various companies such as Netlify and Netguru.
 <br /><br />
 Vue.js features an incrementally adoptable architecture that focuses on declarative rendering and component composition. Advanced features required for complex applications such as routing, state management and build tooling are offered via officially maintained supporting libraries and packages, with Nuxt.js as one of the most popular solutions.
