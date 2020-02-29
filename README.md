@@ -26,6 +26,7 @@ Nuxt.js : https://nuxtjs.org <br />
 **_Vue.js developers_** <br />
 Vue was created by Evan You : https://github.com/yyx990803, https://twitter.com/youyuxi <br />
 Taylor Otwell : https://github.com/taylorotwell, https://twitter.com/taylorotwell <br />
+Sarah Drasner : https://github.com/sdras, https://sarah.dev, https://twitter.com/sarah_edo <br />
  
 <a name="github"></a>
 ## 3. GitHub notes.
