@@ -4,8 +4,9 @@ My works related to Vue.js framework.
 ## Table of Contents
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
-3. [GitHub notes.](#github)
-4. [GitHub repository calculation.](#calculation)
+3. [Vue.js developers.](#developers)
+4. [GitHub notes.](#github)
+5. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -20,16 +21,17 @@ Vue.js lets you extend HTML with HTML attributes called directives. The directiv
 ## 2. Official references websites. 
 Vue.js official website : https://vuejs.org <br />
 
-**_Vue.js related technologies_**
-Nuxt.js : https://nuxtjs.org <br />
+**_Vue.js related technologies_** <br />
+Nuxt.js : https://nuxtjs.org <br 
 
-**_Vue.js developers_** <br />
+<a name="developers"></a>
+## 3. Vue.js developers.
 Vue was created by Evan You : https://github.com/yyx990803, https://twitter.com/youyuxi <br />
-Taylor Otwell : https://github.com/taylorotwell, https://twitter.com/taylorotwell <br />
 Sarah Drasner : https://github.com/sdras, https://sarah.dev, https://twitter.com/sarah_edo <br />
+Taylor Otwell : https://github.com/taylorotwell, https://twitter.com/taylorotwell <br />
  
 <a name="github"></a>
-## 3. GitHub notes.
+## 4. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/Vue.js.git
@@ -39,7 +41,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 4. GitHub repository calculation.
+## 5. GitHub repository calculation.
 ```
 draft
 ```
