@@ -5,8 +5,9 @@ My works related to Vue.js framework.
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
 3. [Vue.js developers.](#developers)
-4. [GitHub notes.](#github)
-5. [GitHub repository calculation.](#calculation)
+4. [Vue.js jobs.](#jobs)
+5. [GitHub notes.](#github)
+6. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -29,9 +30,15 @@ Nuxt.js : https://nuxtjs.org <br
 Vue was created by Evan You : https://github.com/yyx990803, https://twitter.com/youyuxi <br />
 Sarah Drasner : https://github.com/sdras, https://sarah.dev, https://twitter.com/sarah_edo <br />
 Taylor Otwell : https://github.com/taylorotwell, https://twitter.com/taylorotwell <br />
+
+<a name="jobsn"></a>
+## 4. Vue.js jobs.
+VueJobs : https://vuejobs.com <br />
+Vue.js jobs by Stack Overflow : https://stackoverflow.com/jobs/developer-jobs-using-vuejs <br />
+Vue.js jobs by remoteok.io : https://remoteok.io/remote-vue.js-jobs <br />
  
 <a name="github"></a>
-## 4. GitHub notes.
+## 5. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/Vue.js.git
@@ -41,7 +48,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 5. GitHub repository calculation.
+## 6. GitHub repository calculation.
 ```
 draft
 ```
