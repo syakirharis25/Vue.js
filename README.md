@@ -25,6 +25,7 @@ Vue.js official website : https://vuejs.org <br />
 **_Vue.js related technologies_** <br />
 Nuxt.js : https://nuxtjs.org <br />
 jsfiddle : https://jsfiddle.net <br />
+JSONPlaceholder : https://jsonplaceholder.typicode.com/ <br />
 
 <a name="developers"></a>
 ## 3. Vue.js developers.
