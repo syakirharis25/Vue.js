@@ -23,6 +23,7 @@ Vue.js lets you extend HTML with HTML attributes called directives. The directiv
 Vue.js official website : https://vuejs.org <br />
 Vue.js documentation : https://vuejs.org/v2/guide/ <br />
 Vue CLI : https://cli.vuejs.org <br />
+Vue CLI documentation : https://cli.vuejs.org/guide/ <br />
 Vue.js devtools : https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en <br />
 
 **_Vue.js related technologies_** <br />
