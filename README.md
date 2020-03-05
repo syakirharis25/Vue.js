@@ -32,6 +32,7 @@ Vue was created by Evan You : https://github.com/yyx990803, https://twitter.com/
 Sarah Drasner : https://github.com/sdras, https://sarah.dev, https://twitter.com/sarah_edo <br />
 Taylor Otwell : https://github.com/taylorotwell, https://twitter.com/taylorotwell <br />
 Gwendolyn Faraday : https://github.com/gwenf, https://twitter.com/gwen_faraday <br />
+Ahmed Hadjou : https://github.com/hidjou <br />
 
 <a name="jobsn"></a>
 ## 4. Vue.js jobs.
