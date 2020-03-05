@@ -26,6 +26,9 @@ Vue CLI : https://cli.vuejs.org <br />
 Vue CLI documentation : https://cli.vuejs.org/guide/ <br />
 Vue.js devtools : https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en <br />
 
+**_Vue.js documentation by Vue CLI_**
+Installation by Vue CLI : https://cli.vuejs.org/guide/installation.html <br />
+
 **_Vue.js related technologies_** <br />
 Nuxt.js : https://nuxtjs.org <br />
 jsfiddle : https://jsfiddle.net <br />
