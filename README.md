@@ -21,6 +21,7 @@ Vue.js lets you extend HTML with HTML attributes called directives. The directiv
 <a name="references"></a>
 ## 2. Official references websites. 
 Vue.js official website : https://vuejs.org <br />
+Vue.js devtools : https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en <br />
 
 **_Vue.js related technologies_** <br />
 Nuxt.js : https://nuxtjs.org <br />
