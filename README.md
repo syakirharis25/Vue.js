@@ -29,6 +29,9 @@ JSONPlaceholder : https://jsonplaceholder.typicode.com/ <br />
 Babel : https://babeljs.io <br />
 ESLint : https://eslint.org <br />
 PostCSS : https://postcss.org <br />
+Redux : https://redux.js.org/ <br />
+Flux : https://facebook.github.io/flux/ <br />
+Vuex : https://vuex.vuejs.org/ <br />
 
 <a name="developers"></a>
 ## 3. Vue.js developers.
