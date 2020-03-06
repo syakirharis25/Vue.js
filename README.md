@@ -30,6 +30,9 @@ Vue.js devtools : https://chrome.google.com/webstore/detail/vuejs-devtools/nhdog
 **_Vue.js documentation by Vue CLI_**
 Installation by Vue CLI : https://cli.vuejs.org/guide/installation.html <br />
 
+**_Vue.js related articles_**
+Error: Please, upgrade your dependencies to the actual version of core-js@3 by Stack Overflow : https://stackoverflow.com/questions/59354180/error-please-upgrade-your-dependencies-to-the-actual-version-of-core-js3 <br />
+
 **_Vue.js related technologies_** <br />
 Nuxt.js : https://nuxtjs.org <br />
 jsfiddle : https://jsfiddle.net <br />
