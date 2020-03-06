@@ -82,6 +82,35 @@ $ git status
 <a name="calculation"></a>
 ## 6. GitHub repository calculation.
 ```
-draft
+---------------------------------------------------------------------------------------
+Language                             files          blank        comment           code
+---------------------------------------------------------------------------------------
+JavaScript                           11010         176118         191846        1019725
+Markdown                              1411          59113              4         146051
+JSON                                  1396            272              0         125323
+TypeScript                            1250           6523          30425          34157
+HTML                                    41          11702              6          13065
+CSS                                    102           1286            709           6777
+YAML                                   154             99            102           3015
+Bourne Shell                           105            370            129           2182
+XML                                     10            233             11           2126
+CoffeeScript                            27            591             51           1513
+reStructuredText                        11            418             27            905
+DOS Batch                              101              0              0            707
+diff                                     1              3             13            588
+Sass                                     7             88              0            475
+Windows Module Definition                5             88              0            454
+Vuejs Component                          7             23             27            271
+make                                    14             88             44            226
+SVG                                      2              0              1             90
+JSON5                                    1              0              0             55
+Bourne Again Shell                       2             11              1             43
+TOML                                     1              2              0             39
+EJS                                      3              2              1             36
+Handlebars                               1              5              0             23
+Lisp                                     1              0              0              6
+---------------------------------------------------------------------------------------
+SUM:                                 15663         257035         223397        1357852
+---------------------------------------------------------------------------------------
 ```
 Refer to : https://github.com/syakirharis25/cloc
