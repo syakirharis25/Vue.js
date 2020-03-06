@@ -4,10 +4,11 @@ My works related to Vue.js framework.
 ## Table of Contents
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
-3. [Vue.js developers.](#developers)
-4. [Vue.js jobs.](#jobs)
-5. [GitHub notes.](#github)
-6. [GitHub repository calculation.](#calculation)
+3. [Vue CLI.](#vuecli)
+4. [Vue.js developers.](#developers)
+5. [Vue.js jobs.](#jobs)
+6. [GitHub notes.](#github)
+7. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -40,8 +41,17 @@ Redux : https://redux.js.org/ <br />
 Flux : https://facebook.github.io/flux/ <br />
 Vuex : https://vuex.vuejs.org/ <br />
 
+<a name="vuecli"></a>
+## 3. Vue CLI.
+The CLI (@vue/cli) is a globally installed npm package and provides the vue command in your terminal. It provides the ability to quickly scaffold a new project via vue create, or instantly prototype new ideas via vue serve. You can also manage your projects using a graphical user interface via vue ui. 
+
+To install Vue CLI, do this command.
+```
+$ yarn global add @vue/cli --network-timeout 30000000
+```
+
 <a name="developers"></a>
-## 3. Vue.js developers.
+## 4. Vue.js developers.
 Vue was created by Evan You : https://github.com/yyx990803, https://twitter.com/youyuxi <br />
 Sarah Drasner : https://github.com/sdras, https://sarah.dev, https://twitter.com/sarah_edo <br />
 Taylor Otwell : https://github.com/taylorotwell, https://twitter.com/taylorotwell <br />
@@ -49,13 +59,13 @@ Gwendolyn Faraday : https://github.com/gwenf, https://twitter.com/gwen_faraday <
 Ahmed Hadjou : https://github.com/hidjou <br />
 
 <a name="jobsn"></a>
-## 4. Vue.js jobs.
+## 5. Vue.js jobs.
 VueJobs : https://vuejobs.com <br />
 Vue.js jobs by Stack Overflow : https://stackoverflow.com/jobs/developer-jobs-using-vuejs <br />
 Vue.js jobs by remoteok.io : https://remoteok.io/remote-vue.js-jobs <br />
  
 <a name="github"></a>
-## 5. GitHub notes.
+## 6. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/Vue.js.git
