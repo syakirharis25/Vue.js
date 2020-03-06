@@ -48,6 +48,7 @@ The CLI (@vue/cli) is a globally installed npm package and provides the vue comm
 To install Vue CLI, do this command.
 ```
 $ yarn global add @vue/cli --network-timeout 30000000
+$ vue --version
 ```
 
 <a name="developers"></a>
