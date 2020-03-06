@@ -32,6 +32,7 @@ Installation by Vue CLI : https://cli.vuejs.org/guide/installation.html <br />
 
 **_Vue.js related articles_**
 Error: Please, upgrade your dependencies to the actual version of core-js@3 by Stack Overflow : https://stackoverflow.com/questions/59354180/error-please-upgrade-your-dependencies-to-the-actual-version-of-core-js3 <br />
+Request’s Past, Present and Future #3142 by mikeal : https://github.com/request/request/issues/3142 <br />
 
 **_Vue.js related technologies_** <br />
 Nuxt.js : https://nuxtjs.org <br />
