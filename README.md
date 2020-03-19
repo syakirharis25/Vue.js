@@ -27,6 +27,7 @@ Vue CLI : https://cli.vuejs.org <br />
 Vue CLI documentation : https://cli.vuejs.org/guide/ <br />
 Vue.js devtools : https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en <br />
 Vue Loader : https://vue-loader.vuejs.org <br />
+Vue Router : https://router.vuejs.org/ <br />
 
 **_Vue.js schools_** <br />
 Vue Mastery : https://www.vuemastery.com <br />
@@ -45,6 +46,9 @@ Installation by Vue CLI : https://cli.vuejs.org/guide/installation.html <br />
 
 **_Vue.js documentation by Vue Loader_** <br />
 Scoped CSS by Vue Loader : https://vue-loader.vuejs.org/guide/scoped-css.html <br />
+
+**_Vue.js documentation by Vue Router_** <br />
+API Reference by Vue Router : https://router.vuejs.org/api <br />
 
 **_Vue.js related articles_**
 Error: Please, upgrade your dependencies to the actual version of core-js@3 by Stack Overflow : https://stackoverflow.com/questions/59354180/error-please-upgrade-your-dependencies-to-the-actual-version-of-core-js3 <br />
