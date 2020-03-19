@@ -27,7 +27,10 @@ Vue CLI : https://cli.vuejs.org <br />
 Vue CLI documentation : https://cli.vuejs.org/guide/ <br />
 Vue.js devtools : https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en <br />
 
-**_Vue.js documentation by Vue CLI_**
+**_Vue.js related projects_** <br />
+vue-starter in GitHub : https://github.com/hidjou/classsed-vue-0260
+
+**_Vue.js documentation by Vue CLI_** <br />
 Installation by Vue CLI : https://cli.vuejs.org/guide/installation.html <br />
 
 **_Vue.js related articles_**
