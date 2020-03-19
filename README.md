@@ -31,8 +31,11 @@ Vue Loader : https://vue-loader.vuejs.org <br />
 **_Vue.js schools_** <br />
 Vue Mastery : https://www.vuemastery.com <br />
 
+**_Vue.js related frameworks_** <br />
+Materialize : https://materializecss.com/ <br />
+
 **_Vue.js related projects_** <br />
-vue-starter in GitHub : https://github.com/hidjou/classsed-vue-0260
+vue-starter in GitHub : https://github.com/hidjou/classsed-vue-0260 <br />
 
 **_Vue.js tutorials by Vue Mastery_** <br />
 real-world-vue-js by Vue Mastery : https://www.vuemastery.com/courses/real-world-vue-js/vue-cli <br />
