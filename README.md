@@ -38,11 +38,12 @@ Materialize : https://materializecss.com/ <br />
 **_Vue.js related projects_** <br />
 vue-starter in GitHub : https://github.com/hidjou/classsed-vue-0260 <br />
 
-**_Vue.js tutorials by Vue.js_** <br />
-The Vue Instance by Vue.js : https://vuejs.org/v2/guide/instance.html <br />
-
 **_Vue.js tutorials by Vue Mastery_** <br />
 real-world-vue-js by Vue Mastery : https://www.vuemastery.com/courses/real-world-vue-js/vue-cli <br />
+
+**_Vue.js documentation by Vue.js_** <br />
+The Vue Instance by Vue.js : https://vuejs.org/v2/guide/instance.html <br />
+List Rendering by Vue.js : https://vuejs.org/v2/guide/list.html <br />
 
 **_Vue.js documentation by Vue CLI_** <br />
 Installation by Vue CLI : https://cli.vuejs.org/guide/installation.html <br />
