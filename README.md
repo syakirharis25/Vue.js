@@ -47,6 +47,7 @@ List Rendering by Vue.js : https://vuejs.org/v2/guide/list.html <br />
 
 **_Vue.js documentation by Vue CLI_** <br />
 Installation by Vue CLI : https://cli.vuejs.org/guide/installation.html <br />
+CLI Service by Vue CLI : https://cli.vuejs.org/guide/cli-service.html <br />
 
 **_Vue.js documentation by Vue Loader_** <br />
 Scoped CSS by Vue Loader : https://vue-loader.vuejs.org/guide/scoped-css.html <br />
