@@ -26,18 +26,33 @@ Vue.js documentation : https://vuejs.org/v2/guide/ <br />
 Vue CLI : https://cli.vuejs.org <br />
 Vue CLI documentation : https://cli.vuejs.org/guide/ <br />
 Vue.js devtools : https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en <br />
+Vue Loader : https://vue-loader.vuejs.org <br />
+Vue Router : https://router.vuejs.org/ <br />
 
 **_Vue.js schools_** <br />
 Vue Mastery : https://www.vuemastery.com <br />
 
+**_Vue.js related frameworks_** <br />
+Materialize : https://materializecss.com/ <br />
+
 **_Vue.js related projects_** <br />
-vue-starter in GitHub : https://github.com/hidjou/classsed-vue-0260
+vue-starter in GitHub : https://github.com/hidjou/classsed-vue-0260 <br />
 
 **_Vue.js tutorials by Vue Mastery_** <br />
 real-world-vue-js by Vue Mastery : https://www.vuemastery.com/courses/real-world-vue-js/vue-cli <br />
 
+**_Vue.js documentation by Vue.js_** <br />
+The Vue Instance by Vue.js : https://vuejs.org/v2/guide/instance.html <br />
+List Rendering by Vue.js : https://vuejs.org/v2/guide/list.html <br />
+
 **_Vue.js documentation by Vue CLI_** <br />
 Installation by Vue CLI : https://cli.vuejs.org/guide/installation.html <br />
+
+**_Vue.js documentation by Vue Loader_** <br />
+Scoped CSS by Vue Loader : https://vue-loader.vuejs.org/guide/scoped-css.html <br />
+
+**_Vue.js documentation by Vue Router_** <br />
+API Reference by Vue Router : https://router.vuejs.org/api <br />
 
 **_Vue.js related articles_**
 Error: Please, upgrade your dependencies to the actual version of core-js@3 by Stack Overflow : https://stackoverflow.com/questions/59354180/error-please-upgrade-your-dependencies-to-the-actual-version-of-core-js3 <br />
