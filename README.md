@@ -44,6 +44,7 @@ real-world-vue-js by Vue Mastery : https://www.vuemastery.com/courses/real-world
 **_Vue.js documentation by Vue.js_** <br />
 The Vue Instance by Vue.js : https://vuejs.org/v2/guide/instance.html <br />
 List Rendering by Vue.js : https://vuejs.org/v2/guide/list.html <br />
+Reactivity in Depth by Vue.js : https://vuejs.org/v2/guide/reactivity.html <br />
 
 **_Vue.js documentation by Vue CLI_** <br />
 Installation by Vue CLI : https://cli.vuejs.org/guide/installation.html <br />
