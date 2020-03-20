@@ -37,6 +37,7 @@ Materialize : https://materializecss.com/ <br />
 
 **_Vue.js related projects_** <br />
 vue-starter in GitHub : https://github.com/hidjou/classsed-vue-0260 <br />
+vue-api-docs in GitHub : https://github.com/zhorton34/vue-api-tutorial <br />
 
 **_Vue.js tutorials by Vue Mastery_** <br />
 real-world-vue-js by Vue Mastery : https://www.vuemastery.com/courses/real-world-vue-js/vue-cli <br />
